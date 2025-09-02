@@ -1,0 +1,2 @@
+# EjercicioPlatzi
+entendiendo estructura git
